@@ -1,0 +1,6 @@
+c:\AMIS3610\LabNine\BuckeyeStore\Source\BuckeyeStore.Core\bin\Debug\netstandard1.4\BuckeyeStore.Core.deps.json
+c:\AMIS3610\LabNine\BuckeyeStore\Source\BuckeyeStore.Core\bin\Debug\netstandard1.4\BuckeyeStore.Core.dll
+c:\AMIS3610\LabNine\BuckeyeStore\Source\BuckeyeStore.Core\bin\Debug\netstandard1.4\BuckeyeStore.Core.pdb
+c:\AMIS3610\LabNine\BuckeyeStore\Source\BuckeyeStore.Core\obj\Debug\netstandard1.4\BuckeyeStore.Core.AssemblyInfo.cs
+c:\AMIS3610\LabNine\BuckeyeStore\Source\BuckeyeStore.Core\obj\Debug\netstandard1.4\BuckeyeStore.Core.dll
+c:\AMIS3610\LabNine\BuckeyeStore\Source\BuckeyeStore.Core\obj\Debug\netstandard1.4\BuckeyeStore.Core.pdb
